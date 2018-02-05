@@ -1,4 +1,4 @@
-MyDomain-Sample
+Bci Miami Login
 ====================
 
 A simple example to brand your Salesforce My Domain
